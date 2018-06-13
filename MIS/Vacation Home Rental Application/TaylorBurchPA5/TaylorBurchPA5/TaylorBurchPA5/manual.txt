@@ -1,0 +1,28 @@
+Welcome to Rent My Place! 
+
+We are the leading vacation rental site dedicated to helping you find a vacation home to match your dream vacation! We have rentals for every kind of trip! From cozy mountain cabins to classic city apartments, sprawling ranches to beautiful beach condos, we have a property for you. To help you get started on finding your perfect vacation rental, use this How-To Manual to guide you through the renting experience!
+
+To start, use the main menu to select the service you are looking for. We have options to view all properties listed, explore different properties by characteristics or location, rent a property you love, or lease your own! These options are explained in more detail below:
+
+Leasing a condo:
+If you have a property that you believe might be someone's dream vacation rental, we are here to help you find them! Listing your property is simple. To lease a property, select the menu option titled, "Add a Listing". The system will prompt you to enter data for your listing, such as the address, price of the listing, end date, and an email to contact you at. Enter each piece of information as the system prompts you to. Once done, we will save and add your listing to our database where potential renters can view and rent it! When a renter is interested in your property, we will rent it out and send you an email confirmation to your provided email address. 
+
+View condos:
+Select this option in the menu to view all available listings we have available. You will also have the option to explore rentals by location, renter, or price. Listings currently available are written in green, while unavailable listings are listed in red. All listings available will have the information you should require, but should you have further questions, you can use the email address listed for the leaser to contact them about any questions. You may also contact Rent My Place directly for any questions regarding listings or our system and we will help you out as best we can! Contact information for Rent My Place is listed at the bottom of this document.
+
+Read Reviews
+From the main menu, you will also have the option to read any available reviews on a specific property. To read reviews, simply enter the listing ID of the property you would like to see reviews on. The system will pull up all reviews if there are any in our database. 
+
+Rent a condo:
+To rent a condo, select the rent a condo option after viewing available properties. This will walk you through the steps to rent out the property you desire. As a renter, you will be prompted to enter in your name, contact information, and payment information. Once approved, your transaction will be complete! The leasing party of the property will contact you with all additional information needed about the property that you will need prior to arrival. 
+
+Write a Review:
+We love to receive reviews on all the properties we lease! We believe it is wonderfully beneficial to future customers when previous renters leave reviews after leasing. To write a review, enter the listing ID of the property. Please note that you must have previously rented the property selected. We will verify your information against our database before allowing you to write a review. Once approved, you may write any comments and information on the property you believe will be beneficial for future renters to know. This is one of our favorite features we offer here at Rent My Place, and we highly value all input from our customers!
+
+Reports:
+To view reports from our system, select the Reports option from the main menu. From there, a sub menu will appear. Select the corresponding input that matches the report you wish to view. We currently have three types of reporting available. You can review reports on a specific customer and every transaction made by that customer, you can review a report on all transactions sorted by customer and date, and you can view a report on rental revenue by month and year. 
+
+We thank you for choosing Rent My Place as your go to leasing service for your future dream vacation rental. We take great pride in finding you the best rentals at the best available price!
+
+For further questions or additional information, please do not hesitate to contact us!
+Call 1-800--555-RENT or email us at info@rentmyplace,com

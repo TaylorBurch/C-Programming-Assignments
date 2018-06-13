@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{4CDD2843-1D18-4614-B94F-0E56BCBC0AC1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TaylorBurchPA5/Report.cs">
+    <Files>
+      <File FileName="TaylorBurchPA5/Program.cs" Line="100" Column="4" />
+      <File FileName="TaylorBurchPA5/Listing.cs" Line="378" Column="25" />
+      <File FileName="TaylorBurchPA5/Transaction.cs" Line="163" Column="4" />
+      <File FileName="TaylorBurchPA5/Payment.cs" Line="208" Column="5" />
+      <File FileName="TaylorBurchPA5/Report.cs" Line="24" Column="14" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/DabneyBee/Projects/TaylorBurchPA5/TaylorBurchPA5/Listing.cs" relfile="TaylorBurchPA5/Listing.cs" line="185" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TaylorBurchPA5 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
